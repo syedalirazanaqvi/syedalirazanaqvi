@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syedalirazanaqvi
+- 👋 Hi, I’m @syedaliraza
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on ...
